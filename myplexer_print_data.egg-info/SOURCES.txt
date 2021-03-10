@@ -1,0 +1,7 @@
+setup.py
+myplexer_lib/__init__.py
+myplexer_lib/myfunction.py
+myplexer_print_data.egg-info/PKG-INFO
+myplexer_print_data.egg-info/SOURCES.txt
+myplexer_print_data.egg-info/dependency_links.txt
+myplexer_print_data.egg-info/top_level.txt
