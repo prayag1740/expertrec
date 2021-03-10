@@ -1,6 +1,3 @@
-
-
-
 def myplexer_print_data(input_string):
     input_string = input_string.lower()
     if input_string == "hi":
